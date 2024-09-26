@@ -1,0 +1,11 @@
+Nombre: James Cosling
+DNI: 320000032G
+Sexo: M
+Categoria: 9
+Anyos: 7
+
+Nombre: Ada Lovelace
+DNI: 320000031R
+Sexo: F
+Categoria: 1
+Anyos: 1

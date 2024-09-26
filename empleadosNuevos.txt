@@ -1,0 +1,5 @@
+Nombre: X
+DNI: X
+Sexo: X
+Categoria: X
+Anyos: X
